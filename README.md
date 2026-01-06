@@ -32,6 +32,9 @@ File Handling
 
 python student-records.py
 
+<img width="347" height="167" alt="image" src="https://github.com/user-attachments/assets/02b27331-1f24-4b6b-8ade-7607adb785f9" />
+
+
 
 ## ▶️ Run (GUI Version)
 
@@ -43,6 +46,7 @@ python student-gui.py
 
 📁 Data Stored In
 students.csv
+
 <img width="228" height="142" alt="image" src="https://github.com/user-attachments/assets/7e717a6d-46a7-4095-a0b4-6fa8eab6afff" />
 
 
