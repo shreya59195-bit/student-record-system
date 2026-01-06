@@ -13,6 +13,7 @@ Delete record
 Data stored permanently in CSV file
 
 Console + GUI version
+
 <img width="448" height="322" alt="image" src="https://github.com/user-attachments/assets/a70e4665-c2ff-4b19-a12e-d0cb52cb40b0" />
 
 
@@ -28,6 +29,7 @@ File Handling
 
 ▶ How to Run (Console version)
 python student-records.py
+
 <img width="441" height="127" alt="image" src="https://github.com/user-attachments/assets/cf093585-f80f-4a03-bfb1-d10fd0bcbc1b" />
 
 
