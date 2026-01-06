@@ -53,7 +53,7 @@ students.csv
 ## 📂 Project Structure
 
 student-record-system/
-│
+│ 
 ├── student-records.py      # Console version
 ├── student-gui.py          # GUI version
 ├── students.csv            # Data file
