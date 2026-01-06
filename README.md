@@ -1,18 +1,18 @@
-✨ Student Record Management System (Python)
+Student Record Management System (Python)
 
-This is a beginner-friendly Python project that manages student records using CSV file storage.
+This is a Python-based Student Record Management System that stores student data using CSV file handling. 
+The project includes both Console and GUI versions (Tkinter) and supports adding, viewing and deleting records 
+with permanent storage.
 
-🟢 Features
 
-Add new student
+## ✅ Features
 
-View all students
+- Add new student record
+- View all students
+- Delete student record
+- Data stored permanently in CSV file
+- Separate Console & GUI versions
 
-Delete record
-
-Data stored permanently in CSV file
-
-Console + GUI version
 
 <img width="448" height="322" alt="image" src="https://github.com/user-attachments/assets/a70e4665-c2ff-4b19-a12e-d0cb52cb40b0" />
 
@@ -21,23 +21,53 @@ Console + GUI version
 
 Python 3
 
-CSV module
+CSV file handling
 
 Tkinter GUI
 
 File Handling
 
 ▶ How to Run (Console version)
+## ▶️ Run (Console Version)
+
 python student-records.py
+
+
+## ▶️ Run (GUI Version)
+
+python student-gui.py
+
 
 <img width="441" height="127" alt="image" src="https://github.com/user-attachments/assets/cf093585-f80f-4a03-bfb1-d10fd0bcbc1b" />
 
 
-▶ How to Run (GUI version)
-python student-gui.py
-
 📁 Data Stored In
 students.csv
+<img width="228" height="142" alt="image" src="https://github.com/user-attachments/assets/7e717a6d-46a7-4095-a0b4-6fa8eab6afff" />
+
+
+## 📂 Project Structure
+
+student-record-system/
+│
+├── student-records.py      # Console version
+├── student-gui.py          # GUI version
+├── students.csv            # Data file
+└── README.md
+
+## 🎯 Learning Outcomes
+
+- Working with CSV files
+- CRUD operations in Python
+- GUI development using Tkinter
+- File handling & persistent storage
+
+## 👩‍💻 Author
+
+Shreya — MCA Student  
+GitHub: shreya59195-bit
+
+
 
 📌 Student Record Management System — Python
 
