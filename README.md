@@ -36,3 +36,13 @@ python student-gui.py
 
 📁 Data Stored In
 students.csv
+
+📌 Student Record Management System — Python
+
+Built a Python-based student record manager using CSV file storage and Tkinter GUI.
+
+✔ Add / View / Delete records
+✔ Persistent file storage
+✔ GUI + CLI versions
+
+GitHub Link: (repo link)
