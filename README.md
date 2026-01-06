@@ -45,4 +45,4 @@ Built a Python-based student record manager using CSV file storage and Tkinter G
 ✔ Persistent file storage
 ✔ GUI + CLI versions
 
-GitHub Link: (repo link)
+GitHub Link: (https://github.com/shreya59195-bit/student-record-system/blob/main/README.md?plain=1)
