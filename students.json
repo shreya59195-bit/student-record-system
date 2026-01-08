@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "shreya chopra",
+        "course": "mca",
+        "marks": "41"
+    },
+    {
+        "id": "2",
+        "name": "charanjeet kaur",
+        "course": "mca",
+        "marks": "40"
+    },
+    {
+        "id": "3",
+        "name": "khushi rajput",
+        "course": "bca",
+        "marks": "38"
+    }
+]
